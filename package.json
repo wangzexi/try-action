@@ -1,0 +1,22 @@
+{
+  "name": "try-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzexi/try-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangzexi/try-action/issues"
+  },
+  "homepage": "https://github.com/wangzexi/try-action#readme",
+  "dependencies": {
+    "dayjs": "^1.10.4"
+  }
+}
